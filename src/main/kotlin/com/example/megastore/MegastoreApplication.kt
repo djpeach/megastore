@@ -8,4 +8,6 @@ class MegastoreApplication
 
 fun main(args: Array<String>) {
   runApplication<MegastoreApplication>(*args)
+
+  println("Hello SpringBoot!")
 }
